@@ -6,3 +6,17 @@ whoami
 hostname
 uname -a
 
+## Update the server
+sudo apt update
+sudo apt upgrade -y
+
+## Install tools
+sudo apt install -y nginx git curl unzip htop tree
+
+## Check status of Nginx
+sudo systemctl status nginx
+sudo systemctl is-enabled nginx
+
+## Test the web server
+curl http://localhost
+sudo ss -tulnp
