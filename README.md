@@ -95,14 +95,6 @@ aws-linux-infrastructure-lab/
 
 ## Screenshots
 
-### Initial Website
-
-![Initial Website](screenshots/Initial%20webpage.png)
-
-### Nginx Installation
-
-![Nginx Installation](screenshots/nginx%20installation.png)
-
 ### EC2 Launch
 
 ![EC2 Launch](screenshots/EC2%20launch.png)
@@ -110,6 +102,14 @@ aws-linux-infrastructure-lab/
 ### Security Group Configuration
 
 ![Security Group](screenshots/Security%20group.png)
+
+### Nginx Installation
+
+![Nginx Installation](screenshots/nginx%20installation.png)
+
+### Initial Website
+
+![Initial Website](screenshots/Initial%20webpage.png)
 
 ### IAM Role Verification
 
