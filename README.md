@@ -97,35 +97,35 @@ aws-linux-infrastructure-lab/
 
 ### Initial Website
 
-![Initial Website](screenshots/Initial webpage.png)
+![Initial Website](screenshots/Initial%20webpage.png)
 
 ### Nginx Installation
 
-![Nginx Installation](screenshots/Nginx installation.png)
+![Nginx Installation](screenshots/nginx%20installation.png)
 
 ### EC2 Launch
 
-![EC2 Launch](screenshots/EC2 launch.png)
+![EC2 Launch](screenshots/EC2%20launch.png)
 
 ### Security Group Configuration
 
-![Security Group](screenshots/Security group.png)
+![Security Group](screenshots/Security%20group.png)
 
 ### IAM Role Verification
 
-![IAM Role](screenshots/IAM role.png)
+![IAM Role](screenshots/IAM%20role.png)
 
 ### Bash Health Check Script
 
-![Health Check Script](screenshots/Bash health check script.png)
+![Health Check Script](screenshots/Bash%20health%20check%20script.png)
 
 ### Generated Deployment Report
 
-![Deployment Report](screenshots/Enhanced deployment report.png)
+![Deployment Report](screenshots/Enhanced%20deployment%20report.png)
 
 ### Report Uploaded to Amazon S3
 
-![S3 Upload](screenshots/Report uploaded to S3 bucket.png)
+![S3 Upload](screenshots/Report%20uploaded%20to%20S3%20bucket.png)
 
 ---
 
