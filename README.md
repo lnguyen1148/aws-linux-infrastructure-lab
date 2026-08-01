@@ -76,13 +76,13 @@ aws-linux-infrastructure-lab/
 │
 ├── screenshots/
 │   ├── Bash health check script.png
-│   ├── EC2-launch.png
+│   ├── EC2 launch.png
 │   ├── Enhanced deployment report.png
-│   ├── iam-role.png
+│   ├── IAM role.png
 │   ├── Initial webpage.png
-│   ├── nginx installation.png
+│   ├── Nginx installation.png
 │   ├── Report uploaded to S3 bucket.png
-│   └── security-group.png
+│   └── Security group.png
 │
 ├── scripts/
 │   └── health-check.sh
